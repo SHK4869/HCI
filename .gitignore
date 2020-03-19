@@ -9,6 +9,7 @@ notes.txt
 
 #config files
 nodemon.json
+package.json
 
 #heroku files
 Procfile

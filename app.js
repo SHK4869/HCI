@@ -34,7 +34,7 @@ app.use(morgan('dev'));
 // app.use(isAuth);
 
 mongoose.connect(
-    `mongodb+srv://Admin:${password}@sih2020-nqtm6.mongodb.net/test?retryWrites=true&w=majority`
+    `mongodb+srv://HCI:HCI2020@cluster0-kw8qb.mongodb.net/test?retryWrites=true&w=majority`
     
 
    , { 
