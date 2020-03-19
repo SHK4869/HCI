@@ -1,0 +1,14 @@
+#npm config files
+node_modules/
+
+#distribution files
+/dist
+
+#personal notes
+notes.txt
+
+#config files
+nodemon.json
+
+#heroku files
+Procfile
